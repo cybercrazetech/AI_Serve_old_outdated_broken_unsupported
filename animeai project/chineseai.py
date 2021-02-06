@@ -20,7 +20,7 @@ while True:
         install('spacy==2.2')
         spacyinstall('en')
         install('chatterbot')
-        install('googletrans')
+        install('googletrans==3.1.0a0')
         break
     elif check=="no":
         break
@@ -139,7 +139,7 @@ while (True):
     if response=='':
         blit_text(screen, 'Type something to chat', (10, 650), font)
     else:
-        translations = translator.translate(str(response), dest='zh-cn')
+        translations = str(translator.translate(str(response), dest='zh-cn').text)
         blit_text(screen, translations, (10, 650), font)
 
     if pygame.event.get(pygame.QUIT):
