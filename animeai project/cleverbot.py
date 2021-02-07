@@ -113,7 +113,9 @@ pygame.init()
 
 SIZE = WIDTH, HEIGHT = (600, 900)
 
-font = pygame.font.SysFont('Arial',32)
+#font = pygame.font.SysFont('Arial',32)
+font = pygame.font.Font('Cyberbit.ttf',32)
+
 screen = pygame.display.set_mode(SIZE, pygame.RESIZABLE)
 
 response=''

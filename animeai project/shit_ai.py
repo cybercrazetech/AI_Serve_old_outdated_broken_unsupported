@@ -94,7 +94,8 @@ pygame.init()
 
 SIZE = WIDTH, HEIGHT = (600, 900)
 #font = pygame.font.Font('freesansbold.ttf',32)
-font = pygame.font.SysFont('Arial',32)
+#font = pygame.font.SysFont('Arial',32)
+font = pygame.font.Font('Cyberbit.ttf',32)
 screen = pygame.display.set_mode(SIZE, pygame.RESIZABLE)
 
 def centre_text(array,font,surface,y, color=pygame.Color('black')):

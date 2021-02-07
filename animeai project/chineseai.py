@@ -97,7 +97,8 @@ pygame.init()
 
 SIZE = WIDTH, HEIGHT = (600, 900)
 #font = pygame.font.Font('freesansbold.ttf',32)
-font = pygame.font.SysFont('Arial',32)
+#font = pygame.font.SysFont('Arial',32)
+font = pygame.font.Font('Cyberbit.ttf',32)
 screen = pygame.display.set_mode(SIZE, pygame.RESIZABLE)
 
 def centre_text(array,font,surface,y, color=pygame.Color('black')):
@@ -137,11 +138,11 @@ while (True):
     screen.fill((255,255,255))
     screen.blit(image, (80,150))
     if response=='':
-        blit_text(screen, 'Type something to chat', (10, 650), font)
+        blit_text(screen, str(translator.translate("Type something to chat", dest='zh-cn').text), (10, 650), font)
     else:
         translations = str(translator.translate(str(response), dest='zh-cn').text)
         blit_text(screen, translations, (10, 650), font)
-
+        print(translations)
     if pygame.event.get(pygame.QUIT):
         break
     pygame.display.update()
@@ -149,6 +150,7 @@ while (True):
     user_input = input()
     if (user_input == 'quit'):
         break
+    user_input=str(translator.translate(user_input, dest='en').text)
     response = BankBot.get_response(user_input)
     print (analyse(str(response)))
     image = pygame.image.load("emotions/"+analyse(str(response))+".png").convert()
