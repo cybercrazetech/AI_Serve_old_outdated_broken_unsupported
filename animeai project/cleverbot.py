@@ -120,7 +120,7 @@ SIZE = WIDTH, HEIGHT = (600, 900)
 font = pygame.font.Font('Cyberbit.ttf',32)
 
 screen = pygame.display.set_mode(SIZE, pygame.RESIZABLE)
-
+pygame.display.set_caption("Chiaki Nanami AI")
 response=''
 
 def run1(response):

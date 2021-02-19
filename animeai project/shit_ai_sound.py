@@ -21,26 +21,29 @@ while True:
         install('spacy==2.2')
         spacyinstall('en')
         install('chatterbot')
-        install('gTTS')
         install('playsound')
-        install('pyttsx3')
-        install('gobject PyGObject')
+        install('ibm_watson')
         break
     elif check=="no":
         break
     else:print("input not understood. Please retype your answer.")
 
+url='https://api.kr-seo.text-to-speech.watson.cloud.ibm.com/instances/fb3dc777-b259-4d1f-a43b-9ae80e671288'
+apikey='hUNVIDkm_2Gt4HcD3oo4oOArnQYUKK3evKfxMJY2lDtB'
+from ibm_watson import TextToSpeechV1
+from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 import pickle
 import re, string
 import nltk
 import pygame
-from gtts import gTTS  
 import os
 from playsound import playsound
 from googletrans import Translator
 translator = Translator()
 
-language = 'ko'
+authenticator=IAMAuthenticator(apikey)
+tts=TextToSpeechV1(authenticator=authenticator)
+tts.set_service_url(url)
 
 nltk.download('punkt')
 nltk.download('wordnet')
@@ -151,9 +154,11 @@ while (True):
     else:
         blit_text(screen, str(response), (10, 650), font)
         pygame.display.update()
-        obj = gTTS(text=str(translator.translate(str(response), dest='ko').text), lang=language, slow=False)
-#        obj = gTTS(str(response), lang=language, slow=False)
-        obj.save("voice.mp3")
+        with open('voice.mp3','wb') as audio_file:
+#str(translator.translate(str(response), dest='en').text)
+            res=tts.synthesize(str(response),accept='audio/mp3',voice='en-US_AllisonVoice').get_result()
+        #    res=tts.synthesize(str(translator.translate(str(response), dest='ja').text),accept='audio/mp3',voice='ja-JP_EmiVoice').get_result()
+            audio_file.write(res.content)
         playsound("voice.mp3")
         os.remove("voice.mp3")
 
