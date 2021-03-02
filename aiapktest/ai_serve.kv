@@ -1,0 +1,40 @@
+<MyGrid>
+    GridLayout:
+        cols:1
+        size: root.width, 700
+        Image:
+            id: emotion
+            source: "png/normal.png"
+            allow_stretch: True
+            keep_ratio: True
+            
+        GridLayout:
+            cols:1
+            size: root.width, root.height/4
+
+            Label:
+                id: response
+                text: "Type something to chat"
+                font_size: 20
+                color: (0,0,0,1)
+                bold: True
+                italic: True
+            
+            GridLayout:
+                cols:2
+
+                Label:
+                    text: "Your input:"
+                    font_size: 20
+                    color: (0,0,0,1)
+                    bold: True
+                    italic: True
+
+                TextInput:
+                    id: user_input
+                    multiline: True
+
+            Button:
+                size_hint: 0.5, 0.5
+                text: "Enter"
+                on_press:root.btn();root.speak();
