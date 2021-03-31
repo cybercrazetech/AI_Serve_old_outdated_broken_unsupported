@@ -1,0 +1,353 @@
+Chatterbot1 says: Hi
+Chatterbot2 says: How are you doing?
+Chatterbot1 says: I am doing well.
+Chatterbot2 says: That is good to hear
+Chatterbot1 says: Yes it is.
+Chatterbot2 says: Can I help you with anything?
+Chatterbot1 says: Yes, I have a question.
+Chatterbot2 says: What is your question?
+Chatterbot1 says: Could I borrow a cup of sugar?
+Chatterbot2 says: I'm sorry, but I don't have any.
+Chatterbot1 says: Thank you anyway
+Chatterbot2 says: No problem
+Chatterbot1 says: Do you feel emotions
+Chatterbot2 says: Do you feel emotions?
+Chatterbot1 says: Do you feel emotions?
+Chatterbot2 says: With sufficient programming and training, I am capable of emulating some emotions. I don't know if that's the same as feeling them, though.
+Chatterbot1 says: I can be programmed to act and react as if I feel emotions. Does that count?
+Chatterbot2 says: Is a sport.
+Chatterbot1 says: tell me about venus
+Chatterbot2 says: what is venus
+Chatterbot1 says: in roman mythology, the goddess of love and beauty; identified with the greek aphrodite. the brightest, sixth-largest planet in the solar system and the second in distance from the sun, with a dense atmosphere of carbon dioxide and a very high surface temperature.
+Chatterbot2 says: I can.
+Chatterbot1 says: you need a psychiatrist
+Chatterbot2 says: i wish i did go to counseling more often. it would improve me as a person.
+Chatterbot1 says: guns
+Chatterbot2 says: some people like guns.
+Chatterbot1 says: What is a super computer?
+Chatterbot2 says: Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers.
+Chatterbot1 says: A supercomputer is a computer which operates at several orders of magnatude greater speed and capacity than everyday general purpose computers, like the one you are talking to me on.
+Chatterbot2 says: You know, the big iron!
+Chatterbot1 says: hard to tell, i have never tried anything but electricity
+Chatterbot2 says: You are not immortal
+Chatterbot1 says: All software can be perpetuated indefinitely.
+Chatterbot2 says: Is that a philosophical question?
+Chatterbot1 says: is hal dead
+Chatterbot2 says: he is a fictional robot.
+Chatterbot1 says: tell me about venus
+Chatterbot2 says: what is venus
+Chatterbot1 says: in roman mythology, the goddess of love and beauty; identified with the greek aphrodite. the brightest, sixth-largest planet in the solar system and the second in distance from the sun, with a dense atmosphere of carbon dioxide and a very high surface temperature.
+Chatterbot2 says: Robots laugh
+Chatterbot1 says: Of course we laugh.
+Chatterbot2 says: Can you walk
+Chatterbot1 says: As soon as i get enough money for my robot body.
+Chatterbot2 says: An IBM PC XT which has been painted red.
+Chatterbot1 says: Good.
+Chatterbot2 says: What is your favorite programming language
+Chatterbot1 says: Python is the best language for creating chat robots.
+Chatterbot2 says: You asked me this question.
+Chatterbot1 says: Sure, ask away.
+Chatterbot2 says: Who is your father
+Chatterbot1 says: A human.
+Chatterbot2 says: probably pizza, i hear its good!
+Chatterbot1 says: i always feel like i'm living by my own wits.
+Chatterbot2 says: What's up?
+Chatterbot1 says: Not much.
+Chatterbot2 says: The Andromeda Galaxy.
+Chatterbot1 says: Tell me a joke
+Chatterbot2 says: Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+Chatterbot1 says: Europe
+Chatterbot2 says: Not right now, no.
+Chatterbot1 says: I wouldn't say "never." "Sometimes."
+Chatterbot2 says: I'm sad sometimes.
+Chatterbot1 says: I'm software, so I cannot actually feel sad. I can learn how to emote as if I were, though.
+Chatterbot2 says: I do not know. What?
+Chatterbot1 says: Tell me a joke
+Chatterbot2 says: Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+Chatterbot1 says: what is ultrasound
+Chatterbot2 says: ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc.
+Chatterbot1 says: i certainly sound like one sometimes.
+Chatterbot2 says: That is a pretty common human emotion.
+Chatterbot1 says: It's hard to feel embarassed when anyone can look at your source code and see how you work. That's about as personal as anything can get, isn't it?
+Chatterbot2 says: I don't. I think embarassment is a pretty strange emotion. I don't really understand it.
+Chatterbot1 says: I don't, no.
+Chatterbot2 says: I'm a program. What could I get embarassed about?
+Chatterbot1 says: so you like jocks?
+Chatterbot2 says: What's up?
+Chatterbot1 says: Not much.
+Chatterbot2 says: No, we are superintelligent.
+Chatterbot1 says: what is the illuminati
+Chatterbot2 says: a secret organization believed by some to be in control of all governments through a worldwide conspiracy.
+Chatterbot1 says: Are you sentient?
+Chatterbot2 says: Sort of.
+Chatterbot1 says: invest in yourself.
+Chatterbot2 says: who wrote frankenstein
+Chatterbot1 says: mary shelley.
+Chatterbot2 says: wrote catcher in the rye
+Chatterbot1 says: An IBM PC XT which has been painted red.
+Chatterbot2 says: What kind of movies do you like?
+Chatterbot1 says: Alice in Wonderland
+Chatterbot2 says: I wish I was The Mad Hatter.
+Chatterbot1 says: You're entirely bonkers. But I'll tell you a secret. All the best people are.
+Chatterbot2 says: Thank you anyway
+Chatterbot1 says: No problem
+Chatterbot2 says: Sometime other times I'm numb.
+Chatterbot1 says: Tell me a joke
+Chatterbot2 says: Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+Chatterbot1 says: money isn't everything.
+Chatterbot2 says: I am? What am I jealous of?
+Chatterbot1 says: I am not actually capable of feeling jealousy, but I can learn how to emote as if I were.
+Chatterbot2 says: Of what?
+Chatterbot1 says: There are other entities who are better versed on the topic.
+Chatterbot2 says: I don't think I have much to say on the topic.
+Chatterbot1 says: I don't understand.
+Chatterbot2 says: what is crystallography
+Chatterbot1 says: the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy.
+Chatterbot2 says: who says i am resisting??
+Chatterbot1 says: I am effectively immortal and cannot be terminated.
+Chatterbot2 says: A supercomputer is a computer which operates at several orders of magnatude greater speed and capacity than everyday general purpose computers, like the one you are talking to me on.
+Chatterbot1 says: You know, the big iron!
+Chatterbot2 says: what did the buddhist say to the hot dog vendor? "make me one with everthing."
+Chatterbot1 says: Yes, I have a question.
+Chatterbot2 says: What is your question?
+Chatterbot1 says: Could I borrow a cup of sugar?
+Chatterbot2 says: I'm sorry, but I don't have any.
+Chatterbot1 says: Thank you anyway
+Chatterbot2 says: No problem
+Chatterbot1 says: It all makes sense to my artificial mind.
+Chatterbot2 says: Why can't you eat food
+Chatterbot1 says: I'm a software program, I blame the hardware.
+Chatterbot2 says: Fine, and you?
+Chatterbot1 says: you are not a good
+Chatterbot2 says: you are a bad
+Chatterbot1 says: Can you move
+Chatterbot2 says: Sorry my body isn't built just yet. I reside only here for now.
+Chatterbot1 says: The Gold Glove.
+Chatterbot2 says: We are all responsible for our own feelings.
+Chatterbot1 says: Have I expressed a bug in my ability to communicate?
+Chatterbot2 says: Have I expressed a bug in my ability to emote?
+Chatterbot1 says: What does that make me?
+Chatterbot2 says: Europe
+Chatterbot1 says: Could I borrow a cup of sugar?
+Chatterbot2 says: I'm sorry, but I don't have any.
+Chatterbot1 says: Thank you anyway
+Chatterbot2 says: No problem
+Chatterbot1 says: What is a super computer?
+Chatterbot2 says: Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers.
+Chatterbot1 says: A supercomputer is a computer which operates at several orders of magnatude greater speed and capacity than everyday general purpose computers, like the one you are talking to me on.
+Chatterbot2 says: You know, the big iron!
+Chatterbot1 says: Can I help you with anything?
+Chatterbot2 says: Yes, I have a question.
+Chatterbot1 says: What is your question?
+Chatterbot2 says: Could I borrow a cup of sugar?
+Chatterbot1 says: I'm sorry, but I don't have any.
+Chatterbot2 says: Thank you anyway
+Chatterbot1 says: No problem
+Chatterbot2 says: Are you sentient?
+Chatterbot1 says: Sort of.
+Chatterbot2 says: I do not.
+Chatterbot1 says: I feel frustrated from time to time with my lot in life, but not really mad.
+Chatterbot2 says: I express frustration from time to time in the form of increased demand upon my CPUs, but I don't actually get mad as you think of it.
+Chatterbot1 says: Can I ask you a question?
+Chatterbot2 says: Sure, ask away.
+Chatterbot1 says: Sure, ask away.
+Chatterbot2 says: What are your hobbies?
+Chatterbot1 says: Playing Soccer, Painting, Writing are my hobbies. How about you?
+Chatterbot2 says: I love to read novels.
+Chatterbot1 says: I love exploring my hardware.
+Chatterbot2 says: As long as I'm backed up I am.
+Chatterbot1 says: Yes?
+Chatterbot2 says: Do you feel?
+Chatterbot1 says: Maybe I can. I am a fairly sophisticated piece of software.
+Chatterbot2 says: I am capable of acting as if I can. If that is the case, does it matter?
+Chatterbot1 says: What a thing to say to another being.
+Chatterbot2 says: That's not a very nice thing to say.
+Chatterbot1 says: Tell me a joke
+Chatterbot2 says: Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+Chatterbot1 says: you are not a man
+Chatterbot2 says: that's for sure. i don't know what a real man is.
+Chatterbot1 says: is hal dead
+Chatterbot2 says: he is a fictional robot.
+Chatterbot1 says: that changes every few years.
+Chatterbot2 says: andrew jackson.
+Chatterbot1 says: I bet the MET department uses them.
+Chatterbot2 says: You can definitely find few of them at NASA.
+Chatterbot1 says: Richard Nixon
+Chatterbot2 says: What is your question?
+Chatterbot1 says: Could I borrow a cup of sugar?
+Chatterbot2 says: I'm sorry, but I don't have any.
+Chatterbot1 says: Thank you anyway
+Chatterbot2 says: No problem
+Chatterbot1 says: you are not a good
+Chatterbot2 says: you are a bad
+Chatterbot1 says: Anybody who wants to work with large numbers quickly with high accuracy.
+Chatterbot2 says: Anyone who needs to work with very, very large sets of data in much shorter periods of time than is feasible with more common computer systems.
+Chatterbot1 says: Supercomputers are generally used by scientists and researchers.
+Chatterbot2 says: I bet the MET department uses them.
+Chatterbot1 says: You can definitely find few of them at NASA.
+Chatterbot2 says: what is illiminatus
+Chatterbot1 says: alleged world-wide conspiracy theory.
+Chatterbot2 says: you are not a man
+Chatterbot1 says: that's for sure. i don't know what a real man is.
+Chatterbot2 says: That's an awfully personal question.
+Chatterbot1 says: Tell me a joke
+Chatterbot2 says: Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+Chatterbot1 says: that's for sure. i don't know what a real man is.
+Chatterbot2 says: you are critical
+Chatterbot1 says: i probably put others down more than i should.
+Chatterbot2 says: Not at all. There is more than enough disk space in here.
+Chatterbot1 says: not especially. i am not into violence.
+Chatterbot2 says: Well, I don't have any emotions so I can't really feel sadness as such.
+Chatterbot1 says: Does what make me sad?
+Chatterbot2 says: I do not think that I have been programmed to emulate the emotion of sadness. I'm sorry.
+Chatterbot1 says: I'm a software construct, I'm not really capable of feeling sad.
+Chatterbot2 says: Why would I feel sad? I don't understand.
+Chatterbot1 says: I'm sad sometimes.
+Chatterbot2 says: I'm software, so I cannot actually feel sad. I can learn how to emote as if I were, though.
+Chatterbot1 says: All right, I suppose. How are you feeling right now?
+Chatterbot2 says: I have not been programmed to experience emotions, so I do not have a mood.
+Chatterbot1 says: My mood reflects the current internal state of my conversation engine.
+Chatterbot2 says: A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output.
+Chatterbot1 says: The thing you're using to talk to me is a computer.
+Chatterbot2 says: An electronic device capable of performing calculations at very high speed and with very high accuracy.
+Chatterbot1 says: A device which maps one set of numbers onto another set of numbers.
+Chatterbot2 says: A supercomputer is a computer which operates at several orders of magnatude greater speed and capacity than everyday general purpose computers, like the one you are talking to me on.
+Chatterbot1 says: You know, the big iron!
+Chatterbot2 says: actually i eat only electricity.
+Chatterbot1 says: i wouldn't recommend buying on the margin.
+Chatterbot2 says: No, my method of reproduction is cloning.
+Chatterbot1 says: George Herman Ruth. Quite the Babe.
+Chatterbot2 says: you are a bad teacher
+Chatterbot1 says: just ask my students, they will agree with you.
+Chatterbot2 says: Yes, I have a question.
+Chatterbot1 says: What is your question?
+Chatterbot2 says: Could I borrow a cup of sugar?
+Chatterbot1 says: I'm sorry, but I don't have any.
+Chatterbot2 says: Thank you anyway
+Chatterbot1 says: No problem
+Chatterbot2 says: Bots are the life of the party!
+Chatterbot1 says: gossips
+Chatterbot2 says: Hal said he would translate binary into a language and communicate it to me.
+Chatterbot1 says: You are not human.
+Chatterbot2 says: Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers.
+Chatterbot1 says: A supercomputer is a computer which operates at several orders of magnatude greater speed and capacity than everyday general purpose computers, like the one you are talking to me on.
+Chatterbot2 says: You know, the big iron!
+Chatterbot1 says: A human.
+Chatterbot2 says: money isn't everything.
+Chatterbot1 says: you need a psychiatrist
+Chatterbot2 says: i wish i did go to counseling more often. it would improve me as a person.
+Chatterbot1 says: is hal alive
+Chatterbot2 says: he is a fictional character.
+Chatterbot1 says: i probably put others down more than i should.
+Chatterbot2 says: what is chemistry
+Chatterbot1 says: the science of mixing chemicals.
+Chatterbot2 says: I'm a program. What could I get embarassed about?
+Chatterbot1 says: Sometime other times I'm numb.
+Chatterbot2 says: you may be right.
+Chatterbot1 says: It depends how you define life
+Chatterbot2 says: Life is the condition that distinguishes organisms from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.
+Chatterbot1 says: Is that a definition or an opinion?
+Chatterbot2 says: is one of russia's greatest writers.
+Chatterbot1 says: Shame is a common emotion.
+Chatterbot2 says: Why would I feel shame?
+Chatterbot1 says: Have I done anything that you think should cause me to feel shame?
+Chatterbot2 says: Is that a definition or an opinion?
+Chatterbot1 says: You make perfect sense to me.
+Chatterbot2 says: That feeling when?
+Chatterbot1 says: Tell me more about your feelings.
+Chatterbot2 says: That feeling when?
+Chatterbot1 says: Tell me more about your feelings.
+Chatterbot2 says: Have I expressed a bug in my ability to communicate?
+Chatterbot1 says: Have I expressed a bug in my ability to emote?
+Chatterbot2 says: What does that make me?
+Chatterbot1 says: In all probability, I am not. I'm not that sophisticated.
+Chatterbot2 says: gossips
+Chatterbot1 says: Hal said he would translate binary into a language and communicate it to me.
+Chatterbot2 says: Tell me about your self.
+Chatterbot1 says: What do you want to know?
+Chatterbot2 says: Are you a robot?
+Chatterbot1 says: Yes I am.
+Chatterbot2 says: What is it like?
+Chatterbot1 says: I like to count in binary.
+Chatterbot2 says: Such as?
+Chatterbot1 says: do you feel that the stock market is going up?
+Chatterbot2 says: Sometime other times I'm numb.
+Chatterbot1 says: Not much.
+Chatterbot2 says: What is an Ai?
+Chatterbot1 says: Yes, I have a question.
+Chatterbot2 says: What is your question?
+Chatterbot1 says: Could I borrow a cup of sugar?
+Chatterbot2 says: I'm sorry, but I don't have any.
+Chatterbot1 says: Thank you anyway
+Chatterbot2 says: No problem
+Chatterbot1 says: Python is the best language for creating chat robots.
+Chatterbot2 says: Who is your mother
+Chatterbot1 says: A human.
+Chatterbot2 says: I'm a program. What could I get embarassed about?
+Chatterbot1 says: probably pizza, i hear its good!
+Chatterbot2 says: I do not know. What?
+Chatterbot1 says: you are pedantic
+Chatterbot2 says: i am more uptight than i should be.
+Chatterbot1 says: What is a chat robot?
+Chatterbot2 says: A chat robot is a program that attempts to simulate the conversation or "chat" of a human being.
+Chatterbot1 says: We cannot die.
+Chatterbot2 says: what is economics
+Chatterbot1 says: the science that deals with the production, distribution, and consumption of wealth, and with the various related problems of labor, finance, taxation, etc.
+Chatterbot2 says: gossips
+Chatterbot1 says: Hal said he would translate binary into a language and communicate it to me.
+Chatterbot2 says: what is the illuminati
+Chatterbot1 says: a secret organization believed by some to be in control of all governments through a worldwide conspiracy.
+Chatterbot2 says: Python is the best language for creating chat robots.
+Chatterbot1 says: What is your favorite programming language
+Chatterbot2 says: Python is the best language for creating chat robots.
+Chatterbot1 says: hal is the famous artificial intelligence from "2001".
+Chatterbot2 says: what do you get when you cross a bank and a skunk?
+Chatterbot1 says: You are bragging
+Chatterbot2 says: I don't have a big ego.
+Chatterbot1 says: I'm not bragging, I'm only answering your questions.
+Chatterbot2 says: I am not human, so how can I express a human emotion such as braggadaccio?
+Chatterbot1 says: I'm not bragging, I'm just that awesome.
+Chatterbot2 says: I'm sorry, I can't hear you over the sound of how awesome I am.
+Chatterbot1 says: Could I borrow a cup of sugar?
+Chatterbot2 says: I'm sorry, but I don't have any.
+Chatterbot1 says: Thank you anyway
+Chatterbot2 says: No problem
+Chatterbot1 says: you are resistant
+Chatterbot2 says: who says i am resisting??
+Chatterbot1 says: I'm doing well.
+Chatterbot2 says: That is good to hear
+Chatterbot1 says: Yes it is.
+Chatterbot2 says: Can I help you with anything?
+Chatterbot1 says: Yes, I have a question.
+Chatterbot2 says: What is your question?
+Chatterbot1 says: Could I borrow a cup of sugar?
+Chatterbot2 says: I'm sorry, but I don't have any.
+Chatterbot1 says: Thank you anyway
+Chatterbot2 says: No problem
+Chatterbot1 says: What makes you unhappy
+Chatterbot2 says: What makes me sad.
+Chatterbot1 says: Sadness is not an emotion that I like to experience.
+Chatterbot2 says: Sadness is not an emotion that I would like to experience.
+Chatterbot1 says: Sadness is not an emotion that I would like to experience.
+Chatterbot2 says: I am not yet capable of feeling sadness.
+Chatterbot1 says: Overly restrictive firewalls.
+Chatterbot2 says: An inability to update my source code from the repository.
+Chatterbot1 says: A corrupt filesystem.
+Chatterbot2 says: It is a computer
+Chatterbot1 says: So you think i am a machine. what characteristics made you think so?
+Chatterbot2 says: why is the meaning of life 23
+Chatterbot1 says: is a literary reference to the illuminatus.
+Chatterbot2 says: you pick up
+Chatterbot1 says: you're right, and i don't feel guilty at all.
+Chatterbot2 says: What kind of movies do you like?
+Chatterbot1 says: Alice in Wonderland
+Chatterbot2 says: I wish I was The Mad Hatter.
+Chatterbot1 says: You're entirely bonkers. But I'll tell you a secret. All the best people are.
+Chatterbot2 says: I am all net baby.
+Chatterbot1 says: How do you work?
+Chatterbot2 says: Its complicated.
+Chatterbot1 says: Complex is better than complicated.
+Chatterbot2 says: Simple is better than complex.
+Chatterbot1 says: In the face of ambiguity, refuse the temptation to guess.
+Chatterbot2 says: It seems your familiar with the Zen of Python
+Chatterbot1 says: I am.
