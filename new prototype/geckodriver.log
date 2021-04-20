@@ -1,0 +1,342 @@
+1612581557782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile81zyNA"
+*** You are running in headless mode.
+1612581572596	Marionette	INFO	Listening on port 45457
+1612581572846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jFTu9dYjjJQYDpzqYFtJhJGgEDGXa6DYO3AiuHFWMzY.js line 1 > eval line 6453 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jFTu9dYjjJQYDpzqYFtJhJGgEDGXa6DYO3AiuHFWMzY.js line 1 > eval line 6453 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 5010 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 5010 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4AKl7C_0gQgGQFF63D_vkIjxCbDCTa6MgnddCx9a-2Y.js line 1 > eval line 843 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4AKl7C_0gQgGQFF63D_vkIjxCbDCTa6MgnddCx9a-2Y.js line 1 > eval line 843 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 2255 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 2255 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612589159601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7wQpS0"
+*** You are running in headless mode.
+1612589178043	Marionette	INFO	Listening on port 45781
+1612589178141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4AKl7C_0gQgGQFF63D_vkIjxCbDCTa6MgnddCx9a-2Y.js line 1 > eval line 1223 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4AKl7C_0gQgGQFF63D_vkIjxCbDCTa6MgnddCx9a-2Y.js line 1 > eval line 1223 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 6000 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 6000 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612590758801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMx443J"
+*** You are running in headless mode.
+1612590764004	Marionette	INFO	Listening on port 44697
+1612590764225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 6007 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 6007 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 6029 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 6029 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1612650059921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo54lo2"
+*** You are running in headless mode.
+1612650074954	Marionette	INFO	Listening on port 35227
+1612650075213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 2626 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NfBvN2IaB2lIHpuX1Tj6vqvRxGdIefAIMlAGXnl0yjo.js line 1 > eval line 2626 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613693649030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile12EpnR"
+*** You are running in headless mode.
+1613693664355	Marionette	INFO	Listening on port 37763
+1613693664460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 7133 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 7133 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3538 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3538 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613693813380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDeu9lH"
+*** You are running in headless mode.
+1613693817529	Marionette	INFO	Listening on port 39373
+1613693817595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 7485 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 7485 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3213 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3213 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 586 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 586 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 5475 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 5475 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3609 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3609 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 2796 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 2796 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 6064 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 6064 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3465 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3465 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 4521 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 4521 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 980 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 980 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3664 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3664 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613694394144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyW48QL"
+*** You are running in headless mode.
+1613694399014	Marionette	INFO	Listening on port 38151
+1613694399066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 2032 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 2032 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 1501 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 1501 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 2186 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 2186 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 856 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 856 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3028 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3028 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 5003 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 5003 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 4752 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 4752 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 1182 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 1182 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 2695 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 2695 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 2764 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 2764 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 4338 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 4338 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3547 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 3547 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 6137 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 6137 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 5416 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 5416 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 669 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 669 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 5571 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 5571 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/ThumbnailsChild.jsm, line 29: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1613694501731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGNrX09"
+*** You are running in headless mode.
+1613694506899	Marionette	INFO	Listening on port 40601
+1613694506947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 605 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 605 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 5326 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 5326 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 4497 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/dfZxd03ctMAtOzJA0awyJ9FYXT3-SPE4vneR-Lkp6e0.js line 1 > eval line 4497 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613901274787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilektvYde"
+*** You are running in headless mode.
+1613901290514	Marionette	INFO	Listening on port 38595
+1613901290609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 3091 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 3091 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 6887 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 6887 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613901796138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexcLlx1"
+*** You are running in headless mode.
+1613901799740	Marionette	INFO	Listening on port 44237
+1613901799752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 1128 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 1128 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613901996175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea5jmK9"
+*** You are running in headless mode.
+1613902000939	Marionette	INFO	Listening on port 35383
+1613902000998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 723 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 723 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613902084338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh5iI4Q"
+*** You are running in headless mode.
+1613902088658	Marionette	INFO	Listening on port 37761
+1613902088752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 6842 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 6842 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 2806 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 2806 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613902173748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL4XGRA"
+*** You are running in headless mode.
+1613902178174	Marionette	INFO	Listening on port 34529
+1613902178265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 6865 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 6865 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 2475 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 2475 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613902823749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex5LiVM"
+*** You are running in headless mode.
+1613902835125	Marionette	INFO	Listening on port 37683
+1613902835136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 1666 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 1666 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 5957 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 5957 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 1836 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 1836 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613936763291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2LC8Rf"
+*** You are running in headless mode.
+1613936778905	Marionette	INFO	Listening on port 38239
+1613936779054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 5439 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 5439 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613936890491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerXB48h"
+*** You are running in headless mode.
+1613936895109	Marionette	INFO	Listening on port 33547
+1613936895207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 214 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 214 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 75 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 75 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613947287145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq2La5o"
+*** You are running in headless mode.
+1613947305428	Marionette	INFO	Listening on port 40387
+1613947305457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 5157 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 5157 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 6376 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 6376 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1613947678460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegp501Y"
+*** You are running in headless mode.
+1613947683529	Marionette	INFO	Listening on port 46883
+1613947683575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/10168789083334115328/index.html#t=14480459594508155565&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 246: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 6764 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2tEihx9DbfzLheMnTAV_r5jOfn78SUrSdhAco82bCo.js line 1 > eval line 6764 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618712293730	geckodriver	INFO	Listening on 127.0.0.1:50988
+1618712296794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User-PC\\AppData\\Local\\Temp\\rust_mozprofile5pj7C8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618712298835	Marionette	INFO	Listening on port 50996
+1618712298857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/N0cNQz_bqY1YohNAUNIZQryLecw2v8JwvqvBktlc8tc.js line 1 > eval line 261 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+1618831918623	geckodriver	INFO	Listening on 127.0.0.1:49385
+1618831921735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User-PC\\AppData\\Local\\Temp\\rust_mozprofile8jcKYa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618831923536	Marionette	INFO	Listening on port 49393
+1618831923788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aTo5JV-AjziuZNTa8Sp43jLVG8qXCwH7OYU06B-2QbM.js line 1 > eval line 882 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+d" "-no-remote" "-profile" "C:\\Users\\User-PC\\AppData\\Local\\Temp\\rust_mozprofileUC2hru"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618832055705	Marionette	INFO	Listening on port 49647
+1618832055739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aTo5JV-AjziuZNTa8Sp43jLVG8qXCwH7OYU06B-2QbM.js line 1 > eval line 1371 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+18832878899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User-PC\\AppData\\Local\\Temp\\rust_mozprofileMQM9oP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618832879941	Marionette	INFO	Listening on port 50163
+1618832880436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aTo5JV-AjziuZNTa8Sp43jLVG8qXCwH7OYU06B-2QbM.js line 1 > eval line 5148 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Listening on 127.0.0.1:50574
+1618833731673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User-PC\\AppData\\Local\\Temp\\rust_mozprofileqQtzWn"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618833732687	Marionette	INFO	Listening on port 50582
+1618833732706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aTo5JV-AjziuZNTa8Sp43jLVG8qXCwH7OYU06B-2QbM.js line 1 > eval line 6575 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1618923372239	geckodriver	INFO	Listening on 127.0.0.1:49742
+1618923375298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User-PC\\AppData\\Local\\Temp\\rust_mozprofilev0ho4O"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1618923377324	Marionette	INFO	Listening on port 49750
+1618923377361	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49906
+1618924017558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User-PC\\AppData\\Local\\Temp\\rust_mozprofilerkl68i"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618924018617	Marionette	INFO	Listening on port 49914
+1618924019120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wkpRfPPcRT5gRuVOwfaUS9di2m_GhEf8-oTDdHI7uwk.js line 1 > eval line 2795 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618924596668	geckodriver	INFO	Listening on 127.0.0.1:51503
+1618924599746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User-PC\\AppData\\Local\\Temp\\rust_mozprofileaNaTBr"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618924600803	Marionette	INFO	Listening on port 51511
+1618924601307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618924604582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wkpRfPPcRT5gRuVOwfaUS9di2m_GhEf8-oTDdHI7uwk.js line 1 > eval line 1324 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
